@@ -97,9 +97,9 @@ int main()
     cout << "choose the choice :" << endl;
     cout << "----------------------main table ------------------------------" << endl << endl;
     cout << "\t 1 - Add to stack " << endl;
-    cout << "\t 2 - delete the top element " << endl;
-    cout << "\t 3 - print the top of stack " << endl;
-    cout << "\t 4 - print the Stack " << endl;
+    cout << "\t 2 - Delete the top element " << endl;
+    cout << "\t 3 - Print the top of stack " << endl;
+    cout << "\t 4 - Print the Stack " << endl;
     cout << "\t 5 - Exit " << endl;
 
     int choice;
