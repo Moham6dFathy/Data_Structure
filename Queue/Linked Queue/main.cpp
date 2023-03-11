@@ -10,7 +10,7 @@ class queue
 {
     struct node
     {
-        int value;
+        T value;
         node* next;
     };
 
@@ -29,7 +29,7 @@ public:
     }
 
 
-    void push(T val)
+    void push(T& val)
     {
 
         node* addElement = new node;
