@@ -200,7 +200,7 @@ int main()
 
         case(5):
         {
-            cout << "the Front Element" << endl;
+            cout << "the Back Element" << endl;
             cout << qu.back() << endl;
             break;
         }
